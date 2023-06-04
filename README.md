@@ -1,4 +1,4 @@
-[![MasterHead](http:ile istediginiz fotoğrafın linkini buraya yazın)
+<!--[![MasterHead](http:ile istediginiz fotoğrafın linkini buraya yazın) -->
 <h1 align="center">Hi 👋, I'm Eray Çelik</h1>
 <h3 align="center">A passionate jr programmer from Türkiye</h3>
 

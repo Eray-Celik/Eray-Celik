@@ -4,18 +4,6 @@
 
 - 🔭 I’m currently working on **Flutter,C#**
 
-- 👨‍💻 All of my projects are available at [.](.)
-
-- 📝 I regularly write articles on [.](.)
-
-- 💬 Ask me about **.**
-
-- 📫 How to reach me **.**
-
-- 📄 Know about my experiences [.](.)
-
-- ⚡ Fun fact 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
